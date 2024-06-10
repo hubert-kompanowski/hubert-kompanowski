@@ -1,7 +1,7 @@
 # Hubert Kompanowski
 
 Hi there!
-My name is Hubert Kompanowski and I am Machine Learning Engineer specializing in Deep Learning and Computer Vision.
+My name is Hubert Kompanowski and I am a PhD candidate in the School of Computer Science and Statistics at Trinity College Dublin supported by The SFI Centre for Research Training in Digitally-Enhanced Reality (d-real).
 
 ### Some of my projects can be found in table below:
 
