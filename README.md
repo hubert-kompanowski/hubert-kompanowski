@@ -8,5 +8,6 @@ My name is Hubert Kompanowski and I am a PhD candidate in the School of Computer
 
 | Name | Link | Technologies | Description |
 | ------------- | ------------- | ------------- | ------------- |
+| Dream-in-Style  |  [dream-in-style](https://github.com/hubert-kompanowski/dream-in-style)  |  Diffusion Model, NeRF  |  Implementation of Dream-in-Style: Text-to-3D Generation using Stylized Score Distillation | 
 | Vehicle Re-identification  | [vehicle-re-identification](https://github.com/hubert-kompanowski/vehicle-re-identification)  | Python, PyTorch Lightning, Hydra, Wandb  | Implementation and analysis of some advanced techniques for vehicle re-identification |
 | Natural Selection Simulation  | [natural-selection-simulation](https://github.com/hubert-kompanowski/Natural-Selection-Simulation)  | Python, PyGame  | Simulation of natural selection and feature evolution on a 2D board. Academic project.  |
